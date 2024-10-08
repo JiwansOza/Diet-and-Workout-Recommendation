@@ -34,22 +34,18 @@ The system helps in promoting Good Health and Well-Being by enabling users to ma
 
 
 📝 Setup Instructions
-Clone the repository:
-bash
-Copy code
-git clone https://github.com/yourusername/diet-workout-recommendation-system.git
-Install the required dependencies:
-bash
-Copy code
-pip install -r requirements.txt
-Run the application:
-bash
-Copy code
-streamlit run app.py
+
+Clone the repository: git clone https://github.com/yourusername/diet-workout-recommendation-system.git
+
+Install the required dependencies: pip install -r requirements.txt
+Run the application: streamlit run app.py
+
 🎯 Future Enhancements
+
 Workout Recommendations based on fitness level and goals.
 Progress Tracker for monitoring weight loss/gain over time.
 Enhanced Data Visualizations with more health metrics and insights.
+
 📄 License
 This project is licensed under the MIT License.
 
