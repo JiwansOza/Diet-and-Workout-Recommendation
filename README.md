@@ -1,4 +1,6 @@
 🍽️ Diet & 🏋️‍♂️ Workout Recommendation System
+
+
 This project is a personalized Diet & Workout Recommendation System designed to help users manage their health and fitness by generating meal plans and workout routines tailored to individual goals, dietary preferences, and activity levels. The system is aligned with Sustainable Development Goal 3 (SDG 3): Good Health and Well-Being, promoting healthy living through balanced nutrition and active lifestyle recommendations.
 
 🎯 Key Features
